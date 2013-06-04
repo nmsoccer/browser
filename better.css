@@ -1,0 +1,43 @@
+h1{
+	left:1px;
+	text-align:center;
+	position:absolute;
+	border-color:green;
+	border-width:1px;
+	color:red;
+	top:10px;
+	height:20px;
+}
+
+div.soccer{
+	top:10px;
+	border-width:2px;
+	border-color:red;
+	font-size:14;
+	color:green;
+	width:50%;
+	height:80%;
+}
+div.leiming{
+	border-color:blue;
+	right:10px;
+	left:50px;
+	float:left;
+	width:50%;
+	height:50%;
+}
+
+p.in{
+	background-color:black;
+	width:50%;
+	height:50%;
+}
+
+p.nice{
+	text-align:center;
+	position:relative;
+	float:left;
+	width:100px;
+	height:50%;
+	left:10px;
+}
